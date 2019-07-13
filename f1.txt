@@ -1,0 +1,3 @@
+this is alekhya 
+im practicing git
+this is a text file
